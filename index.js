@@ -38,9 +38,6 @@ server.on("request", (req, res) => {
             break;
         }
         case "POST": {
-            res.writeHead(200, {
-                "Content-Type": "application/json"
-            })
             res.write('<html>');
             res.write('<body>');
             res.write('<h1>');
