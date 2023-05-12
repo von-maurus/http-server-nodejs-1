@@ -1,3 +1,5 @@
 # Simple HTTP server made with NodeJS
 
-## Status codes documentation: [Developer Mozilla HTTP Status](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+### [Developer Mozilla HTTP Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+
+### [Same origin policy documentation](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
